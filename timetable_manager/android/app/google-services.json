@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133206708463",
+    "project_id": "timetable-manager-c2a9c",
+    "storage_bucket": "timetable-manager-c2a9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133206708463:android:2b83110c49d776f2040b1a",
+        "android_client_info": {
+          "package_name": "com.example.timetable_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133206708463-kdsat3tnfva3b3umekkl8d3c89hh3cl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4chAyoDCQUHXLOA75DcFFO8yJkp6pv14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133206708463-kdsat3tnfva3b3umekkl8d3c89hh3cl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
